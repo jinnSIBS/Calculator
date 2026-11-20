@@ -1,3 +1,5 @@
+from division import divide
+
 def add(x, y):
     # TODO: 
     pass
@@ -8,10 +10,6 @@ def subtract(x, y):
 
 def multiply(x, y):
     # TODO: 
-    pass
-
-def divide(x, y):
-    # TODO:
     pass
 
 # Main Calculator
