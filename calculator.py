@@ -1,17 +1,17 @@
 def add(x, y):
-    # TODO: Implement addition
+    # TODO: 
     pass
 
 def subtract(x, y):
-    # TODO: Implement subtraction
+    # TODO: 
     pass
 
 def multiply(x, y):
-    # TODO: Implement multiplication
+    # TODO: 
     pass
 
 def divide(x, y):
-    # TODO: Implement division
+    # TODO:
     pass
 
 # Main Calculator
