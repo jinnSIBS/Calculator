@@ -1,5 +1,3 @@
-from division import divide
-
 def add(x, y):
     # TODO: 
     pass
@@ -11,6 +9,11 @@ def subtract(x, y):
 def multiply(x, y):
     # TODO: 
     pass
+
+def divide(x, y):
+    if y == 0:
+        return "Error: Division by zero"
+    return x / y
 
 # Main Calculator
 def main():
