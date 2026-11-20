@@ -11,8 +11,9 @@ def multiply(x, y):
     return x * y
 
 def divide(x, y):
-    # TODO: 
-        pass
+    if y == 0:
+        return "Error: Division by zero"
+    return x / y
 
 # Main Calculator
 def main():
