@@ -1,19 +1,17 @@
-
 def add(x, y):
-    # TODO:
-    pass
+    return x + y
 
 def subtract(x, y):
-    return x - y
+    # TODO:
     pass
 
 def multiply(x, y):
-    # TODO:
-    pass
+    return x * y
 
 def divide(x, y):
-    # TODO:
-    pass
+    if y == 0:
+        return "Error: Division by zero"
+    return x / y
 
 # Main Calculator
 def main():
