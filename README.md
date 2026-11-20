@@ -1,4 +1,2 @@
 # Calculator
 andre frias
-
-THIS BRANCH IS ONLY FOR THE APPLICATION FUNCTION
