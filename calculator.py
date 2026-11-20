@@ -7,12 +7,12 @@ def subtract(x, y):
     pass
 
 def multiply(x, y):
-    return x * y
+    # TODO: 
+    pass
 
 def divide(x, y):
-    if y == 0:
-        return "Error: Division by zero"
-    return x / y
+    # TODO: 
+    pass
 
 # Main Calculator
 def main():
